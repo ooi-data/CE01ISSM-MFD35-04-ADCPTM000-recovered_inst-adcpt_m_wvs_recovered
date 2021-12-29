@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_wvs_recovered
 data_stream: CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_wvs_recovered
 end_date: '2021-03-28T16:30:00.000Z'
-last_updated: '2021-12-29T08:18:28.012417Z'
+last_updated: '2021-12-29T08:21:43.438105'
 start_date: '2014-04-18T00:21:18.000Z'
-status: pending
+status: failed
